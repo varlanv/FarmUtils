@@ -1,0 +1,14 @@
+<Ui>
+    <!--  Libs -->
+    <Script file="libs\CommonUtils.lua"/>
+    <Script file="libs\BagUtils.lua"/>
+    <Script file="libs\Set.lua"/>
+    <Script file="libs\List.lua"/>
+    <Script file="libs\Item.lua"/>
+    <Script file="libs\ItemUtils.lua"/>
+
+    <!--  Core -->
+    <Script file="main.lua"/>
+    <Script file="goldInfo.lua"/>
+    <Script file="deleteList.lua"/>
+</Ui>

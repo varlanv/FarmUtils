@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: mip
+## Author: clap
+## Version: 1
+
+## SavedVariables: ITEMS_TO_DELETE, M_TIME_SINCE_LAST_LOGOUT, M_MONEY_TABLE
+
+dependencies.xml
+
